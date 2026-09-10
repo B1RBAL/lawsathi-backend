@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hma-13-1-ia",
+    "actName": "Hindu Marriage Act, 1955",
+    "sectionNumber": "13(1)(ia)",
+    "sectionTitle": "Divorce on the ground of Cruelty",
+    "originalText": "A marriage may be dissolved by a decree of divorce on a petition presented by either the husband or the wife on the ground that the other party has, after the solemnization of the marriage, treated the petitioner with cruelty.",
+    "plainLanguageSummary": "Agar pati ya patni ne shaadi ke baad doosre saathi ke saath cruelty (mansik ya sharirik) ki hai, to peedit party is section ke tehat divorce maang sakta hai. 'Cruelty' ki koi fixed list nahi hai — courts har case ke facts dekh kar decide karte hain.",
+    "category": "Family Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "hma-13-1-ib",
+    "actName": "Hindu Marriage Act, 1955",
+    "sectionNumber": "13(1)(ib)",
+    "sectionTitle": "Divorce on the ground of Desertion",
+    "originalText": "A marriage may be dissolved by a decree of divorce on the ground that the other party has deserted the petitioner for a continuous period of not less than two years immediately preceding the presentation of the petition.",
+    "plainLanguageSummary": "Agar ek saathi doosre ko bina reason ke chhod kar chala jaaye aur kam se kam 2 saal tak wapas na aaye, to ye 'desertion' maana jaata hai aur divorce ka aadhar ban sakta hai.",
+    "category": "Family Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "hma-13b",
+    "actName": "Hindu Marriage Act, 1955",
+    "sectionNumber": "13B",
+    "sectionTitle": "Divorce by Mutual Consent",
+    "originalText": "Both parties may present a petition for divorce on the ground that they have been living separately for a period of one year or more, and that they have not been able to live together, and that they have mutually agreed that the marriage should be dissolved.",
+    "plainLanguageSummary": "Agar dono parties raazi hain divorce ke liye, aur kam se kam 1 saal se alag reh rahe hain, to mutual consent divorce le sakte hain. Pehle 6 mahine ka 'cooling period' mandatory tha, lekin Supreme Court ne kuch conditions mein isse waive karne ki permission di hai.",
+    "category": "Family Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "hma-9",
+    "actName": "Hindu Marriage Act, 1955",
+    "sectionNumber": "9",
+    "sectionTitle": "Restitution of Conjugal Rights",
+    "originalText": "When either the husband or the wife has, without reasonable excuse, withdrawn from the society of the other, the aggrieved party may apply to the district court for restitution of conjugal rights.",
+    "plainLanguageSummary": "Agar ek saathi bina reasonable wajah ke doosre se door ho gaya hai, to court se 'saath rehne' ka order maanga ja sakta hai. Ye practically kam use hota hai, lekin agar decree ke baad bhi 1 saal tak saath nahi rehte, to ye desertion/divorce ka aadhar ban sakta hai.",
+    "category": "Family Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "fca-9",
+    "actName": "Family Courts Act, 1984",
+    "sectionNumber": "9",
+    "sectionTitle": "Duty of Family Court to make efforts for settlement",
+    "originalText": "In every suit or proceeding, the Family Court shall, in the first instance, make every effort to assist and persuade the parties in arriving at a settlement, and may follow such procedure as it may deem fit.",
+    "plainLanguageSummary": "Family Court mein case daalne ke baad, court pehle conciliation/mediation ki koshish karta hai — ye mandatory step hai jo petition ki wording se skip nahi ho sakta. Isliye filing se pehle isko dhyan mein rakhna zaroori hai taaki procedural delay na ho.",
+    "category": "Family Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "cpa-2-7",
+    "actName": "Consumer Protection Act, 2019",
+    "sectionNumber": "2(7)",
+    "sectionTitle": "Definition of Consumer",
+    "originalText": "Consumer means any person who buys any goods or hires or avails any services for a consideration, but does not include a person who obtains such goods for resale or for any commercial purpose.",
+    "plainLanguageSummary": "Agar tumne kisi cheez ya service ke liye paisa diya hai apne personal use ke liye (business resale ke liye nahi), to tum 'consumer' ho aur is Act ke protections claim kar sakte ho.",
+    "category": "Consumer Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "cpa-35",
+    "actName": "Consumer Protection Act, 2019",
+    "sectionNumber": "35",
+    "sectionTitle": "Manner in which complaint shall be made",
+    "originalText": "A complaint may be filed with a District Commission by the consumer, any registered consumer association, the Central or State Government, or one or more consumers on behalf of numerous consumers having the same interest.",
+    "plainLanguageSummary": "Complaint District Consumer Commission mein file ki jaati hai — ya to khud consumer, ya registered consumer association, ya government ke through. Group of consumers milkar bhi ek saath complaint kar sakte hain.",
+    "category": "Consumer Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "cpa-39",
+    "actName": "Consumer Protection Act, 2019",
+    "sectionNumber": "39",
+    "sectionTitle": "Reliefs available to Consumer",
+    "originalText": "The District Commission may, if satisfied, order removal of defect, replacement of goods, refund of price, payment of compensation for loss or injury, and discontinuation of unfair trade practice.",
+    "plainLanguageSummary": "Agar complaint sahi paayi jaati hai, to commission defect theek karwa sakta hai, product replace/refund karwa sakta hai, compensation de sakta hai, aur company ko unfair practice rokne ka order de sakta hai.",
+    "category": "Consumer Law",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "rti-6",
+    "actName": "Right to Information Act, 2005",
+    "sectionNumber": "6",
+    "sectionTitle": "Request for obtaining information",
+    "originalText": "A person who desires to obtain any information shall make a request in writing or through electronic means, accompanied by such fee as may be prescribed, to the Public Information Officer.",
+    "plainLanguageSummary": "RTI application likhit ya online form mein Public Information Officer ko bhejni hoti hai, saath mein prescribed fee (usually Rs. 10) ke saath.",
+    "category": "General",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "rti-7",
+    "actName": "Right to Information Act, 2005",
+    "sectionNumber": "7(1)",
+    "sectionTitle": "Time limit for providing information",
+    "originalText": "Subject to sub-section (2), the Public Information Officer shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request, either provide the information or reject the request.",
+    "plainLanguageSummary": "Officer ko 30 din ke andar jawab dena zaroori hai — ya to information de, ya reject kare with reason. Life/liberty se juda mamla ho to time limit 48 ghante hoti hai.",
+    "category": "General",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "rti-8",
+    "actName": "Right to Information Act, 2005",
+    "sectionNumber": "8",
+    "sectionTitle": "Exemption from disclosure of information",
+    "originalText": "There shall be no obligation to give any citizen information which would prejudicially affect the sovereignty and integrity of India, security of the State, or which would cause a breach of privilege of Parliament or State Legislature, among other specified exemptions.",
+    "plainLanguageSummary": "Kuch information RTI ke tehat nahi maangi ja sakti — jaise national security, personal privacy, ya trade secrets se juda data. Har category specific hai, blanket refusal allowed nahi hai.",
+    "category": "General",
+    "lastUpdated": "2026-09-01"
+  }
+]

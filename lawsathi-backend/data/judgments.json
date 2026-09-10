@@ -1,0 +1,62 @@
+[
+  {
+    "id": "samar-ghosh-2007",
+    "caseTitle": "Samar Ghosh v. Jaya Ghosh",
+    "court": "Supreme Court of India",
+    "year": 2007,
+    "citation": "(2007) 4 SCC 511",
+    "relatedActs": ["hma-13-1-ia"],
+    "relatedSections": ["13(1)(ia)"],
+    "summary": "Is judgment mein Supreme Court ne 'mental cruelty' ko define karne ki koshish ki aur illustrative (non-exhaustive) examples diye — jaise sustained unreasonable conduct, ek saathi dwara doosre ko isolate karna, ya continuous verbal abuse. Court ne clear kiya ki har case ke facts alag hote hain, isliye ek fixed formula nahi banaya ja sakta.",
+    "sourceUrl": "https://indiankanoon.org/doc/1290860/",
+    "category": "Family Law"
+  },
+  {
+    "id": "naveen-kohli-2006",
+    "caseTitle": "Naveen Kohli v. Neelu Kohli",
+    "court": "Supreme Court of India",
+    "year": 2006,
+    "citation": "(2006) 4 SCC 558",
+    "relatedActs": ["hma-13-1-ia"],
+    "relatedSections": ["13(1)(ia)"],
+    "summary": "Is case mein Supreme Court ne observe kiya ki jab shaadi 'irretrievably broken down' ho jaaye (yaani reconciliation ki koi real possibility na bache), to usko jaari rakhna dono parties ke liye aur zyada dukh ka karan banta hai. Court ne Parliament se suggest kiya ki 'irretrievable breakdown' ko bhi divorce ka ek ground banaya jaaye (abhi tak ye formally add nahi hua hai).",
+    "sourceUrl": "https://indiankanoon.org/doc/1521343/",
+    "category": "Family Law"
+  },
+  {
+    "id": "amardeep-singh-2017",
+    "caseTitle": "Amardeep Singh v. Harveen Kaur",
+    "court": "Supreme Court of India",
+    "year": 2017,
+    "citation": "(2017) 8 SCC 746",
+    "relatedActs": ["hma-13b"],
+    "relatedSections": ["13B"],
+    "summary": "Supreme Court ne clarify kiya ki Section 13B ke tehat mutual consent divorce mein jo 6-mahine ka 'cooling period' hota hai, wo mandatory nahi hai — courts apni discretion se, specific conditions poori hone par (jaise dono parties genuinely settle ho gaye hain, koi reconciliation chance nahi hai), isse waive kar sakte hain.",
+    "sourceUrl": "https://indiankanoon.org/doc/174637366/",
+    "category": "Family Law"
+  },
+  {
+    "id": "lda-vs-mk-gupta-1994",
+    "caseTitle": "Lucknow Development Authority v. M.K. Gupta",
+    "court": "Supreme Court of India",
+    "year": 1994,
+    "citation": "(1994) 1 SCC 243",
+    "relatedActs": ["cpa-2-7", "cpa-39"],
+    "relatedSections": ["2(7)", "39"],
+    "summary": "Is landmark judgment mein Supreme Court ne 'deficiency in service' ki definition ko broad interpret kiya, jisme government/statutory bodies dwara di gayi housing/development services bhi shamil hain. Ye case consumer law ke daayre ko wide karne ke liye jaana jaata hai.",
+    "sourceUrl": "https://indiankanoon.org/doc/1155499/",
+    "category": "Consumer Law"
+  },
+  {
+    "id": "cbse-vs-aditya-2011",
+    "caseTitle": "CBSE v. Aditya Bandopadhyay",
+    "court": "Supreme Court of India",
+    "year": 2011,
+    "citation": "(2011) 8 SCC 497",
+    "relatedActs": ["rti-8"],
+    "relatedSections": ["8"],
+    "summary": "Supreme Court ne decide kiya ki students apni evaluated answer sheets RTI ke tehat dekh sakte hain, kyunki ye unki personal information hai aur examination process ki confidentiality is right ko override nahi karti. Judgment mein RTI ke exemptions ko narrowly interpret karne pe zor diya gaya.",
+    "sourceUrl": "https://indiankanoon.org/doc/107245921/",
+    "category": "General"
+  }
+]

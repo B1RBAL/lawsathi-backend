@@ -1,0 +1,20 @@
+[
+  {
+    "id": "t1",
+    "title": "Divorce Petition (Sec 13(1)(ia) - Cruelty)",
+    "category": "Family Law",
+    "description": "Hindu Marriage Act ke tehat mental cruelty ke aadhar par petition draft"
+  },
+  {
+    "id": "t2",
+    "title": "Consumer Complaint",
+    "category": "Consumer Law",
+    "description": "Consumer Protection Act ke tehat complaint draft"
+  },
+  {
+    "id": "t3",
+    "title": "RTI Application",
+    "category": "General",
+    "description": "Right to Information Act application format"
+  }
+]
